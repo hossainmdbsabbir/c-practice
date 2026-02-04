@@ -64,4 +64,4 @@ As seen in my project explorer, I have completed practical implementations for:
 ## 🖥️ How to Run My Code
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YourUsername/C-Practice.git](https://github.com/YourUsername/C-Practice.git)
+   git clone https://github.com/hossainmdbsabbir/c-practice
